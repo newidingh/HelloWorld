@@ -1,4 +1,4 @@
-FROM helloworld
+FROM daocloud.io/daocloud/dao-tomcat
 MAINTAINER newidingh
 
 RUN echo "Hello World!"
